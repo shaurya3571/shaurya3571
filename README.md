@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63B3ED&center=true&vCenter=true&width=435&lines=First-Year+CS+Undergrad;Systems+%26+DevOps+Enthusiast;DSA+Grinder+%7C+Striver+A2Z;Learning+by+Building+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=63B3ED&center=true&vCenter=true&width=500&lines=First-Year+CS+Undergrad;Systems+%26+DevOps+Enthusiast;DSA+Grinder+%7C+Striver+A2Z+%F0%9F%94%A5;Backend+%26+Infrastructure+Explorer;Learning+by+Building+%F0%9F%9A%80;Building+in+Public+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,6 +33,47 @@
 ⚙️  DevOps             ████████░░░░░░░░  Docker · GitHub Actions · CI/CD
 🧠  System Design      █████░░░░░░░░░░░  Backend fundamentals & architecture
 ```
+
+---
+
+## ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🚀 CI/CD Pipeline Demo</h3>
+      <p align="center">
+        Dockerized app with GitHub Actions for automated build &amp; deploy.<br/>
+        End-to-end pipeline from <code>git push</code> to production.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shaurya3571/ci-cd-pipeline-demo">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 DSA Journey (Striver A2Z)</h3>
+      <p align="center">
+        Structured C++ solutions with explanations and<br/>
+        time/space complexity analysis — following Striver A2Z.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Striver_A2Z-orange?style=flat"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/shaurya3571/DSA-Journey">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=flat&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -113,12 +154,12 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaurya3571&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya3571&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shaurya3571&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya3571&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600" />
 </p>
 
 ---
@@ -133,13 +174,63 @@
 
 ## 📊 DSA Progress — Striver A2Z
 
-```
-Patterns          ✅ Done
-Arrays            🔄 In Progress
-...and counting
-```
+| Topic | Status | Progress |
+|-------|--------|----------|
+| Patterns | ✅ Done | `████████████████` 100% |
+| Arrays (Easy / Medium) | ✅ Done | `████████████████` 100% |
+| Arrays (Hard) | 🔄 In Progress | `████████░░░░░░░░` 50% |
+| Binary Search | 🔄 In Progress | `██████░░░░░░░░░░` 40% |
+| Strings | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Linked Lists | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Recursion & Backtracking | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Stacks & Queues | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Heaps / Priority Queue | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Greedy | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Binary Trees | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Binary Search Trees | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Graphs | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Dynamic Programming | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
+| Tries | ⏳ Upcoming | `░░░░░░░░░░░░░░░░` 0% |
 
 > 🎯 Goal: Complete A2Z sheet before end of year
+
+---
+
+## 🏆 Achievements & Milestones
+
+```text
+🎉  Started Striver A2Z DSA Journey       — 2024
+🚀  Built first CI/CD Pipeline Demo       — Docker + GitHub Actions
+🧠  Completed Patterns & Arrays (Easy)    — C++ from scratch
+🌐  Launched personal portfolio           — shauryaagrawal.xyz
+📈  Studying Systems Design fundamentals  — In Progress
+🎯  Target: DSA sheet complete            — End of 2025
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <b>Open to collaborating on:</b>
+</p>
+
+<p align="center">
+  🔧 Open source DevOps / infrastructure tools &nbsp;|&nbsp;
+  📚 DSA & competitive programming discussions<br/>
+  🛠️ Backend systems & low-level programming &nbsp;|&nbsp;
+  💼 Internship opportunities (Systems / DevOps / Backend)
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaurya3571">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:reachshauryaagrawal@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -157,4 +248,8 @@ Arrays            🔄 In Progress
 
 <p align="center">
   <i>Open to collaborations, interesting projects, and good conversations 🤝</i>
+</p>
+
+<p align="center">
+  <sub>🕐 Last updated: April 2025 &nbsp;·&nbsp; Profile auto-refreshes stats every hour</sub>
 </p>
