@@ -123,6 +123,20 @@
 
 ---
 
+## 🔥 Contributions Highlight
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya3571&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Commits_This_Year-100%2B-63b3ed?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repos_Created-10%2B-9f7aea?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA_Problems-100%2B-48bb78?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</p>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <p align="center">
@@ -131,15 +145,106 @@
 
 ---
 
+## 🏅 Key Achievements
+
+| Achievement | Details |
+|---|---|
+| 🎯 Striver A2Z | Patterns module completed — Arrays in progress |
+| 🐳 DevOps Pipeline | Built full CI/CD pipeline with Docker + GitHub Actions |
+| 🌐 Live Portfolio | Deployed personal portfolio at [shauryaagrawal.xyz](https://shauryaagrawal.xyz) |
+| 🔁 Consistency | Maintaining daily GitHub activity streak |
+| 📦 Open Source | Actively publishing documented, structured projects |
+
+---
+
 ## 📊 DSA Progress — Striver A2Z
 
 ```
 Patterns          ✅ Done
 Arrays            🔄 In Progress
-...and counting
+Strings           ⏳ Pending
+Linked Lists      ⏳ Pending
+Binary Search     ⏳ Pending
+Recursion         ⏳ Pending
+Stacks & Queues   ⏳ Pending
+Trees             ⏳ Pending
+Graphs            ⏳ Pending
+Dynamic Prog.     ⏳ Pending
 ```
 
-> 🎯 Goal: Complete A2Z sheet before end of year
+> 🎯 Goal: Complete full A2Z sheet before end of 2026
+
+---
+
+## 🗓️ 2026 Goals — Roadmap
+
+```
+Jan ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ✅ Launch personal portfolio website
+  ✅ Start Striver A2Z DSA series (Patterns complete)
+  ✅ Build first CI/CD pipeline with Docker & GitHub Actions
+
+Q1 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  🔄 Complete Arrays & Strings in A2Z
+  🔄 Deepen Linux & systems-level programming
+  🔄 First open-source contribution merged
+
+Q2 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⏳ Complete Trees & Graphs in A2Z
+  ⏳ Build a full-stack side project (deployed)
+  ⏳ Land first internship / research role
+
+Q3 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⏳ Complete DP & advanced topics in A2Z
+  ⏳ Start system design deep-dive (Designing Data-Intensive Apps)
+  ⏳ Publish 3+ technical writeups / blog posts
+
+Q4 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ⏳ Finish Striver A2Z completely ✓
+  ⏳ Contribute meaningfully to a notable OSS project
+  ⏳ Plan Year-2 tech path (ML/Distributed Systems/Compilers?)
+```
+
+---
+
+## ✍️ Blog Posts & Writeups
+
+> I document things I learn — both for myself and for others on the same path.
+
+| # | Title | Topic | Status |
+|---|---|---|---|
+| 1 | How I Set Up My First CI/CD Pipeline | DevOps · Docker · GitHub Actions | 🔄 Draft |
+| 2 | Patterns in DSA — Why Start Here? | DSA · C++ | 🔄 Draft |
+| 3 | Linux for Beginners — Commands I Use Daily | Linux · Systems | ⏳ Planned |
+| 4 | Understanding Docker from First Principles | DevOps · Containers | ⏳ Planned |
+
+> 📌 Writeups will be published on my [portfolio site](https://shauryaagrawal.xyz) — stay tuned!
+
+---
+
+## 📖 Currently Reading / Learning
+
+```text
+📘  Designing Data-Intensive Applications  — Martin Kleppmann  (In Progress)
+📗  The Linux Command Line                 — William Shotts     (In Progress)
+🎥  Striver A2Z DSA Course                — take U forward     (Active)
+🎥  Docker & Kubernetes Fundamentals      — TechWorld with Nana (Queued)
+```
+
+---
+
+## ⚡ Quick Facts
+
+```yaml
+name:       Shaurya Agrawal
+year:       First-Year CS Undergrad
+timezone:   IST (UTC+5:30)
+editor:     VS Code
+OS:         Linux (daily driver) + Windows
+style:      Consistency > Intensity
+currently:  Grinding DSA & building cool stuff
+fun_fact:   I debug with print statements and I'm not sorry
+```
 
 ---
 
@@ -148,6 +253,33 @@ Arrays            🔄 In Progress
 > *"Learning by building. Consistency over intensity."*
 >
 > Every line of code is a step forward. Ship. Learn. Repeat.
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <b>Open to internships, collaborations, and good conversations!</b>
+</p>
+
+| I'm available for | Details |
+|---|---|
+| 💼 Internships | DevOps · Backend · Systems roles — Summer/Fall 2026 |
+| 🤝 Collaborations | Open-source projects, side projects, hackathons |
+| 💬 Chat about | DSA strategies, DevOps pipelines, Systems Design, Linux |
+| 📝 Mentorship | Happy to pair up with other first-years on the same journey |
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/shaurya3571">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:reachshauryaagrawal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shauryaagrawal.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ---
 
