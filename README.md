@@ -12,7 +12,7 @@ I'm currently focusing on devops fundamentals and practising dsa , alongside I a
 You can find/contact me here:
 
 * [**Github**](https://geeks.ms/jorge/)
-* [**LinkedIn**]((https://www.linkedin.com/in/shaurya3571))
+* [**LinkedIn**](https://www.linkedin.com/in/shaurya3571)
 * [**Portfolio-Website**](https://shauryaagrawal.xyz)
 
 ![Shaurya's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&show_icons=true&title_color=D59DFF&icon_color=D59DFF&text_color=FFF&bg_color=3B2E58&hide=CSS,HTML&langs_count=3)
