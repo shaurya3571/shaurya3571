@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,100:0d0d3d&height=220&section=header&text=Shaurya%2Agrawal&fontSize=62&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=17&descColor=8b949e"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a0a2e,100:0d0d3d&height=220&section=header&text=Shaurya%20Agrawal&fontSize=62&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Crafting%20the%20Future%2C%20One%20Commit%20at%20a%20Time&descAlignY=58&descSize=17&descColor=8b949e"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=55&lines=🎓+B.Tech+CSE+AIML;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=650&height=55&lines=🎓+B.Tech+CSE;⚡+Full+Stack+Developer+%7C+React+%2B+Node.js;🤖+AI%2FML+Enthusiast+%26+Open+Source+Builder;🌍+Building+Digital+Products+that+Matter;🚀+Turning+Ideas+into+Scalable+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -179,7 +179,7 @@ mantra:   "Ship fast. Learn faster. Build things that matter."
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=bhuvan-somisetty&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb20&hide_border=true&custom_title=Bhuvan's%20Contribution%20Graph&radius=6"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya3571&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&area_color=1f6feb20&hide_border=true&custom_title=Shaurya's%20Contribution%20Graph&radius=6"/>
 
 </div>
 
