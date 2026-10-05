@@ -66,25 +66,70 @@ location:  India 🇮🇳
   </tr>
 </table>
 
----
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-<h2 align="center">⚙️ Tech Stack</h2>
+
+<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
+<h2 align="center">⚙️ Technology</h2>
 
 <div align="center">
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css,react,tailwind,vite,nodejs,express,mongodb,git,github,docker,linux,vscode,postman,vercel&perline=9&theme=dark" alt="Tech Stack" />
-</a>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3><samp>Languages</samp></h3>
+      <img src="https://skillicons.dev/icons?i=js,java,python,html,css&theme=dark" alt="Languages" />
+    </td>
+    <td align="center" width="50%">
+      <h3><samp>Frontend</samp></h3>
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite&theme=dark" alt="Frontend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3><samp>Backend and Database</samp></h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and Database" />
+    </td>
+    <td align="center" width="50%">
+      <h3><samp>Tools and Infrastructure</samp></h3>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,postman,vscode&theme=dark" alt="Tools and Infrastructure" />
+    </td>
+  </tr>
+</table>
+
+
+<img src="https://img.shields.io/badge/Frontend-FF69B4?style=flat-square" alt="Frontend" />
+<img src="https://img.shields.io/badge/Backend-EF93C4?style=flat-square" alt="Backend" />
+<img src="https://img.shields.io/badge/Database-F8BBD0?style=flat-square&labelColor=F8BBD0&color=F8BBD0" alt="Database" />
+<img src="https://img.shields.io/badge/Cloud-C2185B?style=flat-square" alt="Cloud" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shaurya3571&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&ring_color=FF69B4">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shaurya3571&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FFF5F9&title_color=C2185B&icon_color=FF69B4&text_color=4a1d33&ring_color=FF69B4">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaurya3571&show_icons=true&hide_border=true&include_all_commits=true&bg_color=FFF5F9&title_color=C2185B&icon_color=FF69B4&text_color=4a1d33&ring_color=FF69B4" />
+      </picture>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&langs_count=5&hide_border=true&bg_color=0d1117&title_color=EF93C4&text_color=F8BBD0">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&langs_count=5&hide_border=true&bg_color=FFF5F9&title_color=C2185B&text_color=4a1d33">
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya3571&langs_count=5&hide_border=true&bg_color=FFF5F9&title_color=C2185B&text_color=4a1d33" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shaurya3571&theme=transparent&hide_border=true&background=00000000&ring=FF69B4&fire=EF93C4&currStreakLabel=F8BBD0&currStreakNum=FF69B4&sideLabels=F8BBD0&sideNums=FF69B4&dates=EF93C4">
@@ -93,12 +138,29 @@ location:  India 🇮🇳
 </picture>
 
 <br><br>
+<!-- ═══════════════════════════ CONTRIBUTION GRAPH ═══════════════════════════ -->
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shaurya3571&bg_color=0d1117&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&area_color=FF69B4&hide_border=true&title_color=EF93C4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shaurya3571&bg_color=FFF5F9&color=C2185B&line=FF69B4&point=EF93C4&area=true&area_color=F8BBD0&hide_border=true&title_color=C2185B">
-  <img alt="Contribution Activity Graph" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shaurya3571&bg_color=FFF5F9&color=C2185B&line=FF69B4&point=EF93C4&area=true&area_color=F8BBD0&hide_border=true&title_color=C2185B">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./activity-graph.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./activity-graph.svg"
+  />
+  <img
+    src="./activity-graph.svg"
+    alt="Shaurya Agrawal's Contribution Graph"
+    width="100%"
+  />
 </picture>
+
+</div>
+
 
 </div>
 
@@ -117,43 +179,6 @@ location:  India 🇮🇳
 
 </div>
 
-<!--
-  ┌──────────────────────────────────────────────────────────────────────┐
-  │ GITHUB ACTION: save as .github/workflows/snake.yml in this repo      │
-  │ (repo name must equal your username: shaurya3571/shaurya3571)        │
-  └──────────────────────────────────────────────────────────────────────┘
-
-  name: Generate Snake Animation
-
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-    push:
-      branches: [main]
-
-  permissions:
-    contents: write
-
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      timeout-minutes: 10
-      steps:
-        - uses: Platane/snk/svg-only@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: |
-              dist/github-contribution-grid-snake.svg
-              dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=FF69B4&color_dots=#2d1b26,#8a3a62,#c75b8f,#EF93C4,#F8BBD0
-
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
 
 ---
 
